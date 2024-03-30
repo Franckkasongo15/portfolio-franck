@@ -31,9 +31,9 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "Comment devenir étudiant ambassadeur chez Microsoft🎉",
+    title: "Comment  devenir étudiant ambassadeur  chez Microsoft🎉",
     description:
-      " Nous sommes une communauté des passionné par des technologies  en générale  et la communauté est rependue partout dans le monde ",
+      " Nous sommes une  communauté des passionné par des technologies  en générale  et la communauté est rependue partout dans le monde ",
     url: "https://mvp.microsoft.com/studentambassadors",
   },
   {
